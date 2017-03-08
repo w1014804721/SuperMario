@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/aopalliance-1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-logging-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring-aop-4.2.5.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring-beans-4.2.5.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring-context-4.2.5.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring-core-4.2.5.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/spring-expression-4.2.5.RELEASE.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/beans.map.default.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="aopalliance-1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/aopalliance-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-aop-4.2.5.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring-aop-4.2.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-beans-4.2.5.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring-beans-4.2.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-context-4.2.5.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring-context-4.2.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-core-4.2.5.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring-core-4.2.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-expression-4.2.5.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/spring-expression-4.2.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
