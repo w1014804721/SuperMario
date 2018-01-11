@@ -13,9 +13,3 @@
 ![index](http://wangjingxin.top:65530/6.jpg)
 
 ![index](http://wangjingxin.top:65530/7.jpg)
-
-![index](http://wangjingxin.top:65530/8.jpg)
-
-![index](http://wangjingxin.top:65530/9.jpg)
-
-
