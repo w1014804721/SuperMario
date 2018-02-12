@@ -1,4 +1,6 @@
 ### 大一下Java课程设计，超级玛丽，支持diy地图。画面精美。
+编码：GBK
+Main方法在 com.luck.main.Main中
 #### 项目截图
 ![index](http://wangjingxin.top:65530/1.jpg)
 
