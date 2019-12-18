@@ -5,7 +5,7 @@
 #### 项目截图
 ![index](https://raw.githubusercontent.com/w1014804721/SuperMario/master/doc/v2-71108f2f6ed66f53d33059b8c5b7272c_hd.jpg)
 
-![index](https://raw.githubusercontent.com/w1014804721/SuperMario/master/doc/v2-7af56dbb13383d751edc6dacbd847152_hd.jpg)
+![index](https://raw.githubusercontent.com/w1014804721/SuperMario/master/doc/1.jpg)
 
 ![index](https://raw.githubusercontent.com/w1014804721/SuperMario/master/doc/v2-b055443cfd13c5062238184e1129f799_hd.jpg)
 
